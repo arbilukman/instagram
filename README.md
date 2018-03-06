@@ -1,2 +1,1 @@
-# instagram
-CSS Grid
+# CSS Grid: Instagram
